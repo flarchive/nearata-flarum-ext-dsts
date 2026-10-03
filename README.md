@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-dsts.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-dsts) or the [upstream repository](https://github.com/Nearata/flarum-ext-dsts).
 
-**0** versions archived · Latest: [`v2.4.0`](https://github.com/flarchive/nearata-flarum-ext-dsts/tree/archive/v2.4.0) · License: `Unlicense` · Flarum: `^1.7`
+**6** versions archived · Latest: [`v2.4.0`](https://github.com/flarchive/nearata-flarum-ext-dsts/tree/archive/v2.4.0) · License: `Unlicense` · Flarum: `^1.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-04-28 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-dsts/tree/archive/v1.0.0) |
+| `v2.0.0` | 2021-06-20 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-dsts/tree/archive/v2.0.0) |
+| `v2.1.0` | 2021-06-26 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-dsts/tree/archive/v2.1.0) |
+| `v2.2.0` | 2022-08-30 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-dsts/tree/archive/v2.2.0) |
+| `v2.3.0` | 2022-09-07 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-dsts/tree/archive/v2.3.0) |
+| `v2.4.0` | 2023-05-31 | `^1.7` | [Browse](https://github.com/flarchive/nearata-flarum-ext-dsts/tree/archive/v2.4.0) |
 
 Catalog entry: [packages/nearata-flarum-ext-dsts.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-dsts.json)
 
